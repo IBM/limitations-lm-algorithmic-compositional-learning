@@ -3,7 +3,7 @@
 #### Jonathan Thomm, Giacomo Camposampiero, Aleksandar Terzic, Michael Hersche, Bernhard Schölkopf, Abbas Rahimi
 Accepted as Conference Paper at the Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024. 
 
-[[Paper]](https://arxiv.org/abs/2402.05785) | [[Presentation]](https://example.com)
+[[Paper]](https://arxiv.org/abs/2402.05785) | [[Presentation]](https://slideslive.com/39026935/limits-of-transformer-language-models-on-learning-to-compose-algorithms)
 
 <div align="center">
   <img src='figures/plots.png' width="80%"/>

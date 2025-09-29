@@ -1,4 +1,4 @@
-# Limitations of Language Models for Algorithmic Compositional Learning 
+# Limits of Transformer Language Models on Learning to Compose Algorithms 
 
 #### Jonathan Thomm, Giacomo Camposampiero, Aleksandar Terzic, Michael Hersche, Bernhard Schölkopf, Abbas Rahimi
 Accepted as Conference Paper at the Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024. 
